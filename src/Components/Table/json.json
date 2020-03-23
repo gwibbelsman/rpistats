@@ -1,0 +1,98 @@
+[
+	{
+		"id": 0,
+		"Architecture": "32 bit",
+		"Machine": "armv7l",
+		"Node": "node0",
+		"System": "Linux",
+		"Distribution": "debian 9.8",
+		"AverageLoad": "0.05 0.06 0.01 2 / 165 22816",
+		"MemTotal": "949448 kB",
+		"MemFree": "579828 kB",
+		"Uptime": "3197: 52 hours"
+	},
+	{
+		"id": 1,
+		"Architecture": "32 bit",
+		"Machine": "armv7l",
+		"Node": "node1",
+		"System": "Linux",
+		"Distribution": "debian 9.8",
+		"AverageLoad": "0.05 0.06 0.01 2 / 165 22816",
+		"MemTotal": "949448 kB",
+		"MemFree": "579828 kB",
+		"Uptime": "3197: 52 hours"
+	},
+	{
+		"id": 2,
+		"Architecture": "32 bit",
+		"Machine": "armv7l",
+		"Node": "node2",
+		"System": "Linux",
+		"Distribution": "debian 9.8",
+		"AverageLoad": "0.05 0.06 0.01 2 / 165 22816",
+		"MemTotal": "949448 kB",
+		"MemFree": "579828 kB",
+		"Uptime": "3197: 52 hours"
+	},
+	{
+		"id": 3,
+		"Architecture": "32 bit",
+		"Machine": "armv7l",
+		"Node": "node3",
+		"System": "Linux",
+		"Distribution": "debian 9.8",
+		"AverageLoad": "0.05 0.06 0.01 2 / 165 22816",
+		"MemTotal": "949448 kB",
+		"MemFree": "579828 kB",
+		"Uptime": "3197: 52 hours"
+	},
+	{
+		"id": 4,
+		"Architecture": "32 bit",
+		"Machine": "armv7l",
+		"Node": "node4",
+		"System": "Linux",
+		"Distribution": "debian 9.8",
+		"AverageLoad": "0.05 0.06 0.01 2 / 165 22816",
+		"MemTotal": "949448 kB",
+		"MemFree": "579828 kB",
+		"Uptime": "3197: 52 hours"
+	},
+	{
+		"id": 5,
+		"Architecture": "32 bit",
+		"Machine": "armv7l",
+		"Node": "node5",
+		"System": "Linux",
+		"Distribution": "debian 9.8",
+		"AverageLoad": "0.05 0.06 0.01 2 / 165 22816",
+		"MemTotal": "949448 kB",
+		"MemFree": "579828 kB",
+		"Uptime": "3197: 52 hours"
+	},
+	{
+		"id": 6,
+		"Architecture": "32 bit",
+		"Machine": "armv7l",
+		"Node": "node6",
+		"System": "Linux",
+		"Distribution": "debian 9.8",
+		"AverageLoad": "0.05 0.06 0.01 2 / 165 22816",
+		"MemTotal": "949448 kB",
+		"MemFree": "579828 kB",
+		"Uptime": "3197: 52 hours"
+	},
+	{
+		"id": 7,
+		"Architecture": "32 bit",
+		"Machine": "armv7l",
+		"Node": "node7",
+		"System": "Linux",
+		"Distribution": "debian 9.8",
+		"AverageLoad": "0.05 0.06 0.01 2 / 165 22816",
+		"MemTotal": "949448 kB",
+		"MemFree": "579828 kB",
+		"Uptime": "3197: 52 hours"
+	}
+]
